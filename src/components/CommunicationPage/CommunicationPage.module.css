@@ -1,0 +1,10 @@
+
+
+.container {
+    min-height: 1080px;
+    display: grid;
+    grid-template-areas: 'sideBar chat userInfo';
+    grid-template-columns: 0.4fr 1fr 0fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+

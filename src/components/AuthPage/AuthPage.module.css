@@ -1,0 +1,30 @@
+.form_container {
+    margin: auto;
+    height: 440px;
+    width: 370px;
+    border: solid 1px black;
+
+}
+
+.auth_form {
+    margin: 80px auto 0;
+    width: 280px;
+
+}
+
+.input_container {
+    margin: 20px auto;
+}
+
+h2 {
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
+
+label {
+    display: block;
+    text-align: left;
+}
